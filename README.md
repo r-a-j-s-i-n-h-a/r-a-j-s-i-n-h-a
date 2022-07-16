@@ -58,7 +58,7 @@ I am Raj Sinha, currently pursuing my B.Tech degree in Computer Science from [GL
 
   <br/>
     <a href="https://github.com/r-a-j-s-i-n-h-a/github-readme-stats"><img alt="Raj Sinha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=r-a-j-s-i-n-h-a&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <!--<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.-->
 
 
 <br/>
