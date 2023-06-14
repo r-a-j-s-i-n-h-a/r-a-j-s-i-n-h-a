@@ -50,7 +50,7 @@ I am Raj Sinha, currently pursuing my B.Tech degree in Computer Science from [GL
 
 <p align="center">
     <a href="https://github.com/r-a-j-s-i-n-h-a/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raj Sinha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raj Sinha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=r-a-j-s-i-n-h-a&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
