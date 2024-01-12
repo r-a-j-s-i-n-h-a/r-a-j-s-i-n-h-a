@@ -14,6 +14,71 @@ I am Raj Sinha, currently pursuing my B.Tech degree in Computer Science from [GL
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me **sinha.raj1236@gmail.com**
+- <div align="center">
+  <table>
+    <thead>
+      <tr>
+        <td><div align = "center" style="font-size:1.5em;"><strong>Notable Projects</div></td>
+        <td><div align = "center" style="font-size:1.5em;"><strong>Status</div></td>
+        <td></td>
+      </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td>
+      <ul>
+        <li><a href="https://github.com/AGENTSJ/SJNET">SJNET</a></li><br/>
+        <li><a href="https://github.com/AGENTSJ/Capital_Hand_Writing_Replicator">Capital_Handwriting_Replicator</a></li><br/>
+        <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-It</li><br/>
+        <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</a></li><br/>
+        <li><a href="https://github.com/AGENTSJ/Instagram-Journalist">Instagram-Journalist</a></li><br/>
+      </ul>
+    </td>
+    <td>
+        <ul>
+          <li>
+            <p align="center">
+              <a href="https://github.com/AGENTSJ/SJNET">
+              <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+              </a>
+            </p>
+          </li>
+          <li>
+            <p align="center">
+              <a href="https://github.com/AGENTSJ/Capital_Hand_Writing_Replicator">
+              <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+              </a>
+            </p>
+          </li>
+          <li>
+            <p align="center">
+                <a href="https://github.com/AGENTSJ/Quit-It">
+                <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+                </a>
+            </p>
+          </li>
+          <li>
+            <p align="center">
+              <a href="https://github.com/AGENTSJ/Performance-Tracker">
+              <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+              </a>
+            </p>
+          </li>
+          <li>
+  <p align="center">
+    <a href="https://github.com/AGENTSJ/Instagram-Journalist">
+    <img src="https://img.shields.io/badge/Work_In_Progress-%23F48024.svg?style=for-the-badge&logo=construction&logoColor=white" alt="Work in Progress Badge">
+    </a>
+</p></li>
+      </ul>
+    </td>
+  <td>
+  <img src="https://github.com/AGENTSJ/SJNET/assets/109428699/4b56ab5d-a444-479b-a9de-69ac7bc982a0" alt="React Logo" width="300" height="300">
+  </td>
+  </tr>
+</tbody>
+<table>
+</div>
 
 
 ## 🚀 Languages and Tools:
