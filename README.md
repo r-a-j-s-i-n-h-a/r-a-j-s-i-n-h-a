@@ -27,46 +27,53 @@ I am Raj Sinha, currently pursuing my B.Tech degree in Computer Science from [GL
     <tr>
     <td>
       <ul>
-        <li><a href="https://github.com/AGENTSJ/SJNET">SJNET</a></li><br/>
-        <li><a href="https://github.com/AGENTSJ/Capital_Hand_Writing_Replicator">Capital_Handwriting_Replicator</a></li><br/>
-        <li><a href="https://github.com/AGENTSJ/Quit-It">Quit-It</li><br/>
-        <li><a href="https://github.com/AGENTSJ/Performance-Tracker">Performance-Tracker</a></li><br/>
-        <li><a href="https://github.com/AGENTSJ/Instagram-Journalist">Instagram-Journalist</a></li><br/>
+        <li><a href="https://github.com/r-a-j-s-i-n-h-a/Cryptoverse">Cryptoverse</a></li><br/>
+        <li><a href="https://github.com/r-a-j-s-i-n-h-a/InsightBot">InsightBot</a></li><br/>
+        <li><a href="https://github.com/r-a-j-s-i-n-h-a/my-board">My-Board</li><br/>
+        <li><a href="https://github.com/r-a-j-s-i-n-h-a/NewsApp">NewsApp</a></li><br/>
+        <li><a href="https://github.com/r-a-j-s-i-n-h-a/Blog_app">BlogApp</a></li><br/>
+        <li><a href="https://github.com/r-a-j-s-i-n-h-a/Project-1">Foodie</a></li><br/>
       </ul>
     </td>
     <td>
         <ul>
           <li>
             <p align="center">
-              <a href="https://github.com/AGENTSJ/SJNET">
+              <a href="https://cryptoverse-ddp9bo178-r-a-j-s-i-n-h-as-projects.vercel.app/">
               <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
               </a>
             </p>
           </li>
           <li>
             <p align="center">
-              <a href="https://github.com/AGENTSJ/Capital_Hand_Writing_Replicator">
+              <a href="https://github.com/r-a-j-s-i-n-h-a/InsightBot">
               <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
               </a>
             </p>
           </li>
           <li>
             <p align="center">
-                <a href="https://github.com/AGENTSJ/Quit-It">
+                <a href="https://my-board.onrender.com/">
                 <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
                 </a>
             </p>
           </li>
           <li>
             <p align="center">
-              <a href="https://github.com/AGENTSJ/Performance-Tracker">
+              <a href="https://github.com/r-a-j-s-i-n-h-a/NewsApp">
               <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
               </a>
             </p>
           </li>
           <li>
   <p align="center">
-    <a href="https://github.com/AGENTSJ/Instagram-Journalist">
+    <a href="github.com/r-a-j-s-i-n-h-a/Blog_app">
+    <img src="https://img.shields.io/badge/Work_In_Progress-%23F48024.svg?style=for-the-badge&logo=construction&logoColor=white" alt="Work in Progress Badge">
+    </a>
+</p></li>
+   <li>
+  <p align="center">
+    <a href="https://r-a-j-s-i-n-h-a.github.io/Project-1/">
     <img src="https://img.shields.io/badge/Work_In_Progress-%23F48024.svg?style=for-the-badge&logo=construction&logoColor=white" alt="Work in Progress Badge">
     </a>
 </p></li>
