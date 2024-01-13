@@ -31,7 +31,6 @@ I am Raj Sinha, currently pursuing my B.Tech degree in Computer Science from [GL
         <li><a href="https://github.com/r-a-j-s-i-n-h-a/InsightBot">InsightBot</a></li><br/>
         <li><a href="https://github.com/r-a-j-s-i-n-h-a/my-board">My-Board</li><br/>
         <li><a href="https://github.com/r-a-j-s-i-n-h-a/NewsApp">NewsApp</a></li><br/>
-        
         <li><a href="https://github.com/r-a-j-s-i-n-h-a/Project-1">Foodie</a></li><br/>
         <li><a href="https://github.com/r-a-j-s-i-n-h-a/Scuprr.com">SCUPPR</a></li><br/>
          <li><a href="https://github.com/r-a-j-s-i-n-h-a/Blog_app">BlogApp</a></li><br/>
