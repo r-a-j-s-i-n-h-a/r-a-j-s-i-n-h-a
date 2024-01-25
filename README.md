@@ -74,14 +74,14 @@ I am Raj Sinha, currently pursuing my B.Tech degree in Computer Science from [GL
 </p></li>
        <li>
       <p align="center">
-      <a href="https://r-a-j-s-i-n-h-a.github.io/Scuprr.com/">
-      <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
+        <a href="https://r-a-j-s-i-n-h-a.github.io/Scuprr.com/">
+         <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
       </a>
   </p></li>
       <li>
     <p align="center">
-    <a href="github.com/r-a-j-s-i-n-h-a/Blog_app">
-    <img src="https://img.shields.io/badge/Work_In_Progress-%23F48024.svg?style=for-the-badge&logo=construction&logoColor=white" alt="Work in Progress Badge">
+      <a href="github.com/r-a-j-s-i-n-h-a/Blog_app">
+       <img src="https://img.shields.io/badge/Work_In_Progress-%23F48024.svg?style=for-the-badge&logo=construction&logoColor=white" alt="Work in Progress Badge">
     </a>
   </p></li>
       </ul>
