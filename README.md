@@ -71,13 +71,15 @@ I am Raj Sinha, currently pursuing my B.Tech degree in Computer Science from [GL
           <a href="https://r-a-j-s-i-n-h-a.github.io/Project-1/">
           <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
       </a>
-</p></li>
+    </p>
+    </li>
        <li>
       <p align="center">
         <a href="https://r-a-j-s-i-n-h-a.github.io/Scuprr.com/">
          <img src="https://img.shields.io/badge/Complete-%2328a745.svg?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Complete Badge">
       </a>
-  </p></li>
+    </p>
+    </li>
       <li>
     <p align="center">
       <a href="github.com/r-a-j-s-i-n-h-a/Blog_app">
